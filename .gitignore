@@ -1,0 +1,19 @@
+# Virtual Environments & Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pt
+*.pth
+
+# Dataset cache
+data/
+
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
